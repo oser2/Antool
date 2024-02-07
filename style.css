@@ -134,11 +134,11 @@ body{
     margin-top: 60px;
     border-radius: 15px;
     border: 1.5px solid rgba(255, 255, 255, 0.10);
-    background: #444749;
+    background: #283036;
 }
 .search{
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: 20px;
+    margin-left: 18.06px;
 }
 .fr{
     margin-top: 20px;
@@ -166,4 +166,5 @@ body{
     font-weight: 600;
     line-height: normal;
     margin-top: 8px;
+    margin-left: 111px;
 }
