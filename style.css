@@ -172,3 +172,12 @@ body{
     margin-left: 743px;
     margin-top: -400px;
 }
+.social{
+    display: flex;
+    margin-top: -44px;
+    width: 135px;
+    height: 59.136px;
+    flex-shrink: 0;
+    justify-content: center;
+    justify-content: space-between;
+}
